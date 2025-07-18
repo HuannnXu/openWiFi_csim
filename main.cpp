@@ -1,9 +1,9 @@
 #include <iostream>
 #include <complex>
 #include <vector>
-#include "tx.h"
-#include "rx.h"
-#include "channel.h"
+#include "tx/tx.h"
+#include "rx/rx.h"
+#include "channel/channel.h"
 #include "config.h"
 using namespace std;
 
